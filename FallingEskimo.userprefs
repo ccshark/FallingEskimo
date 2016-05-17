@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\platform\RaycastController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Player\Player.cs" Line="46" Column="21" />
+      <File FileName="Assets\Scripts\Player\Controller2D.cs" Line="21" Column="26" />
+      <File FileName="Assets\Scripts\platform\PoolingController.cs" Line="21" Column="47" />
+      <File FileName="Assets\Scripts\platform\RaycastController.cs" Line="21" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
